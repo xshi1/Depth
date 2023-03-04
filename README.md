@@ -1,1 +1,1 @@
-# Depth
+# In light of the recent development of data depth as an important measure in quality assurance, we propose two new test statistics for the multivariate two-sample homogeneity test. Methods for comparing distributions are as described in: Xiaoping Shi, Yue Zhang and Yuejiao Fu (2023), Entropy 2023, 25(2), 238; <https://doi.org/10.3390/e25020238>.
